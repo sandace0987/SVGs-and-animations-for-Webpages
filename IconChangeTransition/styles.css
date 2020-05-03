@@ -1,0 +1,20 @@
+.btn{
+background: #219af3;
+color: #fff;
+width:300px;
+height: 200px;
+border: 0;
+border-radius: 20px;
+font-size: 150px;
+
+outline: 0;
+cursor: pointer;
+
+}
+body{
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    display: flex;
+    background: black;
+}
